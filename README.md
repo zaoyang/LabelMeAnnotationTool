@@ -16,16 +16,6 @@ having to install or copy a large dataset onto their computers.
    [Project page](http://labelme.csail.mit.edu)
 
 
-### DOWNLOAD:
-
-You can download a [zip file of the source code](https://github.com/CSAILVision/LabelMeAnnotationTool/archive/master.zip) directly.  
-
-Alternatively, you can clone it from GitHub as follows:
-
-``` sh
-$ git clone https://github.com/CSAILVision/LabelMeAnnotationTool.git
-```
-
 
 ### CONTENTS:
 
@@ -75,19 +65,27 @@ $ git clone https://github.com/CSAILVision/LabelMeAnnotationTool.git
 You will need the following to set up the LabelMe tool on your web
 server:
 
-* Run an Apache server (see special configuration instructions for
+1. Run an Apache server (see special configuration instructions for
   [Ubuntu](UBUNTU.md) or [Windows](WINDOWS.md)).
-* Enable authconfig in Apache so that server side includes (SSI) will
+2. Enable authconfig in Apache so that server side includes (SSI) will
   work. This will allow SVG drawing capabilities. This is the most
   common source of errors, so make sure this step is working.
-* Allow perl/CGI scripts to run.  This is the second most common
+3. Allow perl/CGI scripts to run.  This is the second most common
   source of errors.
-* Make sure the php5 and libapache2-mod-php5 libraries are
+4. Make sure the php5 and libapache2-mod-php5 libraries are
   installed. You can install them on Linux by running the following:
 
    ``` sh
    $ sudo apt-get install php5 libapache2-mod-php5
    ```
+5. uncomment LoadModule perl_module libexec/apache2/mod_perl.so
+6. uncomment LoadModule cgi_module libexec/apache2/mod_cgi.so
+7. uncomment LoadModule rewrite_module libexec/apache2/mod_rewrite.so
+8. uncomment LoadModule php5_module libexec/apache2/libphp5.so
+9. $LM_HOME="<home of your directory of annotated tools >"  
+10. mv globalvariables.pl.base globalvariables.pl
+11. mv globalvariables.php.base globalvariables.php
+12. $TOOLHOME = "<home of your directory of annotated tools >" 
 
 * (Optional) See special configuration instructions if you are
   installing on [Ubuntu](UBUNTU.md) or [Windows](WINDOWS.md).
