@@ -17,19 +17,7 @@ having to install or copy a large dataset onto their computers.
 
 
 
-### CONTENTS:
-
-* Images - This is where your images go.
-* Annotations - This is where the annotations are collected.
-* Masks - This is where the segmentation masks are collected (scribble mode).
-* Scribbles - This is where the scribbles are collected (scribble mode).
-* tool.html - Main web page for LabelMe annotation tool.
-* annotationTools - Directory with source code.
-* annotationCache - Location of temporary files.
-* Icons - Icons used on web page.
-
-
-### QUICK START INSTRUCTIONS:
+### Mechanical Turk Start Instructions:
 
 1. Put LabelMe annotation tool code on web server (see web server
    configuration requirements below).
@@ -58,6 +46,23 @@ having to install or copy a large dataset onto their computers.
    image in the folder.
 
 6. Voila!  Your annotations will appear inside of the "Annotations" folder.
+
+7. Change mode=mt for Mechanical Turk 
+
+8. Change N=2 for mode. 
+
+9. 
+   ``` sh
+   $ cd ./annotationTools/sh/
+   $ ./populate_dirlist.sh my_collection.txt example_folder
+   ```
+
+  The list will appear inside
+  "./annotationCache/DirLists/my_collection.txt".  You can then
+  label images inside the collection using the following URL:
+
+   http://www.yourserver.edu/path/to/LabelMe/tool.html?collection=my_collection&mode=i
+  
 
 
 ### WEB SERVER REQUIREMENTS:
@@ -181,24 +186,25 @@ The following is a brief overview of the source code.  Please see the
 [Javascript code API](https://cdn.rawgit.com/CSAILVision/LabelMeAnnotationTool/master/annotationTools/js/api/index.html)
 for more details.
 
-* tool.html - This is the entry point for the annotation tool.  The main
-functionality is to insert all of the javascript code and lay down the
-drawing canvases.
-
 * annotationTools/js/ - This folder contains all of the javascript
 code for the annotation tool functionalities.
 We provide the [code API](https://cdn.rawgit.com/CSAILVision/LabelMeAnnotationTool/master/annotationTools/js/api/index.html)
 for the Javascript source code, which has been automatically extracted
 from the source code comments.
 
-* annotationTools/perl/ - This folder contains all of the Perl
-scripts used for communication with the server back-end.
 
-* annotationTools/css/ - This folder contains all of the CSS style
-definitions.
 
-* annotationTools/html/ - This folder contains auxillary HTML files
-(e.g. for Mechanical Turk instructions, etc.).
+### CONTENTS:
+
+* Images - This is where your images go.
+* Annotations - This is where the annotations are collected.
+* Masks - This is where the segmentation masks are collected (scribble mode).
+* Scribbles - This is where the scribbles are collected (scribble mode).
+* tool.html - Main web page for LabelMe annotation tool.
+* annotationTools - Directory with source code.
+* annotationCache - Location of temporary files.
+* Icons - Icons used on web page.
+
 
 
 ---- 
