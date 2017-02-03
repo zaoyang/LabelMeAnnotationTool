@@ -62,6 +62,12 @@ having to install or copy a large dataset onto their computers.
   label images inside the collection using the following URL:
 
    http://www.yourserver.edu/path/to/LabelMe/tool.html?collection=my_collection&mode=i
+   
+10. Create a SSL Certificate that allows you to submit everything on Mechanical Turk: 
+
+```
+   https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+```    
   
 
 

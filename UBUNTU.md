@@ -4,7 +4,8 @@
 
    ``` sh
    apt-get install apache2
-   apt-get install libapache2-mod-perl2
+   apt-get install libapache2-mod-perl2 php5   
+   
    a2enmod include
    a2enmod rewrite
    a2enmod cgi

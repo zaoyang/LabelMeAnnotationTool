@@ -30,6 +30,10 @@ HOMEVIDEOS='../../VLMFrames'
 # Inputs:
 dirlist=$1
 folder=$2
+
+
+baseurl = 'tagobject.com'
+
 videodirlist='labelmevideo.txt'
 # Handle empty input argument cases:
 if [ "$dirlist" == "" ]; then
@@ -45,30 +49,32 @@ else
    VideoDir="$HOMEVIDEOS/$folder";
 fi
 
+https://tagobject.com/LabelMeAnnotationTool/annotationTools/html/mt_instructions.html
+
 # Populate dirlist:
 find $ImageDir | while read i; do
     if [[ $i =~ ^.*\.jpg$ ]]; then
 #	echo $i
 		dname=$(dirname $i | sed -e s=$HOMEIMAGES/==);
 		iname=$(basename $i);
-		echo "$dname,$iname";
-		echo "$dname,$iname" >> $HOMEDIRLIST/$dirlist;
+		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2";
+		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2" >> $HOMEDIRLIST/$dirlist;
     fi
 done
 
 # Populate dirlist:
-ls $VideoDir | while read i; do
-	idname=$VideoDir$i;
-	ls $idname | while read j; do
-		dirn=$idname/$j;
-		dname=$i/$j;
-		ls $dirn | while read na; do
-			videoname=$(basename $na);
-			echo "$dname,$videoname";
-			echo "$dname,$videoname" >> $HOMEDIRLIST/$videodirlist;
-		done
-	done
-done
-
-
+#ls $VideoDir | while read i; do
+#	idname=$VideoDir$i;
+#	ls $idname | while read j; do
+#		dirn=$idname/$j;
+#		dname=$i/$j;
+#		ls $dirn | while read na; do
+#			videoname=$(basename $na);
+#			echo "$dname,$videoname";
+#			echo "$dname,$videoname" >> $HOMEDIRLIST/$videodirlist;
+#		done
+#	done
+#done
+#
+#
 
