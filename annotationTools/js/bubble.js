@@ -199,8 +199,8 @@ function CloseEditPopup() {
 function GetPopupFormDraw(scribble_form) {
   wait_for_input = 1;
   part_bubble = false;
-  html_str = "<b>Enter object name</b><br />";
-  if (add_parts_to != null){
+  html_str = enterObjectNameHtml;
+  if (add_parts_to != null && enable_addparts){
     html_str = "<b>Enter part name</b><br />";
     part_bubble = true;
   }
@@ -214,24 +214,35 @@ function GetPopupFormDraw(scribble_form) {
   if(use_parts) {
     html_str += HTMLpartsBox("");
   }
-  html_str += "<br />";
+  html_str += "<br /><div class='equi_container'>";
   
   // Done button:
   html_str += '<input type="button" value="Done" title="Press this button after you have provided all the information you want about the object." onclick="main_handler.SubmitQuery();" tabindex="0" />';
   
   // Delete button:
-  html_str += '<input type="button" style="float:right" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.WhatIsThisObjectDeleteButton();" tabindex="0" />';
-  html_str += '<br />' 
+  html_str += '<input type="button" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.WhatIsThisObjectDeleteButton();" tabindex="0" />';
+
   // Undo close button/Keep editting
   if (!scribble_form) if (!bounding_box) html_str += '<input type="button" value="Undo close" title="Press this button if you accidentally closed the polygon. You can continue adding control points." onclick="UndoCloseButton();" tabindex="0" />';
   else if (scribble_form) html_str += '<input type="button" value="Edit Scribble" title="Press this button if to keep adding scribbles." onclick="KeepEditingScribbles();" tabindex="0" />';
   // Add parts/Stop adding parts
-  if (add_parts_to == null) html_str += '<input type="button" value="Add parts" title="Press this button if you want to start adding parts" onclick="main_handler.StartAddParts();" tabindex="0" />';
-  else html_str += '<input type="button" value="Stop parts" title="Press this button if you want to stop adding parts" onclick="main_handler.StopAddParts();" tabindex="0" />';
-    
+  if (add_parts_to == null && enable_addparts){
+    html_str += stopPartsHtml;
+  }else if (enable_addparts){
+    html_str += addPartsHtml;
+  }
+  html_str += "</div>";
+
   return html_str;
 }
 
+/**
+ * This is when you edit the form of a previously created annotation for the same username.
+ * If you see an annotation and you click on it
+ * @param anno
+ * @returns {enterObjectNameHtml|*}
+ * @constructor
+ */
 function GetPopupFormEdit(anno) {
   // get object name and attributes from 'anno'
   edit_popup_open =  1;
@@ -242,7 +253,7 @@ function GetPopupFormEdit(anno) {
   var occluded = LMgetObjectField(LM_xml,anno.anno_id,'occluded');
   var parts = LMgetObjectField(LM_xml, anno.anno_id, 'parts');
   
-  html_str = "<b>Enter object name</b><br />"; 
+  html_str = enterObjectNameHtml;
   html_str += HTMLobjectBox(obj_name);
   
   if(use_attributes) {
@@ -279,8 +290,10 @@ function GetPopupFormEdit(anno) {
   /*************************************************************/
   
   // Add parts/Stop adding parts
-  if (add_parts_to == null) html_str += '<input type="button" value="Add parts" title="Press this button if you want to start adding parts" onclick="main_handler.StartAddParts();" tabindex="0" />';
-  
+  if (add_parts_to == null && enable_addparts) {
+    html_str += addPartsHtml;
+  }
+
   return html_str;
 }
 

@@ -144,7 +144,7 @@ function CloseEditPopup() {
 // ****************************
 
 function GetPopupFormDraw() {
-  html_str = "&lt;b>Enter object name&lt;/b>&lt;br />";
+  html_str = enterObjectName
   html_str += HTMLobjectBox("");
   
   if(use_attributes) {
@@ -178,7 +178,7 @@ function GetPopupFormEdit(anno) {
   var occluded = LMgetObjectField(LM_xml,anno.anno_id,'occluded');
   var parts = anno.GetParts();
   
-  html_str = "&lt;b>Enter object name&lt;/b>&lt;br />";
+  html_str = enterObjectName;
   html_str += HTMLobjectBox(obj_name);
   
   if(use_attributes) {

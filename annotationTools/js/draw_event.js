@@ -176,8 +176,9 @@ function DrawCanvasClosePolygon() {
   // Make query popup appear.
   main_media.ScrollbarsOff();
   WriteLogMsg('*What_is_this_object_query');
+
   if (video_mode){
-    var html_str = "<b>Enter object name</b><br />";
+    var html_str = enterObjectNameHtml;
     html_str += HTMLobjectBox("");
     
     if(use_attributes) {
@@ -191,13 +192,13 @@ function DrawCanvasClosePolygon() {
     html_str += "<br />";
   
     // Done button:
-    html_str += '<input type="button" value="Done" title="Press this button after you have provided all the information you want about the object." onclick="main_media.SubmitObject();" tabindex="0" />';
+    html_str += '<div class="equi_container"><input type="button" value="Done" title="Press this button after you have provided all the information you want about the object." onclick="main_media.SubmitObject();" tabindex="0" /></div>';
   
     // Undo close button:
-    if (!bounding_box) html_str += '<input type="button" value="Undo close" title="Press this button if you accidentally closed the polygon. You can continue adding control points." onclick="UndoCloseButton();" tabindex="0" />';
+    if (!bounding_box) html_str += '<div class="equi_container"><input type="button" value="Undo close" title="Press this button if you accidentally closed the polygon. You can continue adding control points." onclick="UndoCloseButton();" tabindex="0" /></div>';
   
     // Delete button:
-    html_str += '<input type="button" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.WhatIsThisObjectDeleteButton();" tabindex="0" />';
+    html_str += '<div class="equi_container"><input type="button" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.WhatIsThisObjectDeleteButton();" tabindex="0" /></div>';
     
 
 

@@ -179,7 +179,7 @@ function SetObjectChoicesPointLine(num_control_points) {
   // and "horizon line" be options:
   var isLine = 0;
   if((num_control_points==2) && (object_choices=='...')) {
-    object_choices = 'line,horizon line';
+    object_choices = pointOrLineChoices;
     object_choices = object_choices.split(/,/);
     isLine = 1;
   }

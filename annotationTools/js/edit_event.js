@@ -14,7 +14,7 @@ function StartEditEvent(anno_id,event) {
   
   console.log('LabelMe: Starting edit event...');
   
-  if (add_parts_to != null){
+  if (add_parts_to != null && enable_addparts){
     $('#Link'+add_parts_to).css('font-weight',400)
     add_parts_to = null;
   }

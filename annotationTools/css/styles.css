@@ -98,3 +98,12 @@ position:relative;
 height:100%; z-index:0;}
 #examples {width:100%; font-size:small;}
 #anno_list {font-size:small;}
+
+.equi_container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.equi_container input{
+  height: 10px;
+}
