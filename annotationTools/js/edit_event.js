@@ -154,7 +154,7 @@ function AdjustPolygonButton() {
   old_name = LMgetObjectField(LM_xml,anno.anno_id,'name');
   if(document.getElementById('objEnter')) new_name = RemoveSpecialChars(document.getElementById('objEnter').value);
   else new_name = RemoveSpecialChars(adjust_objEnter);
-  
+
   var re = /[a-zA-Z0-9]/;
   if(!re.test(new_name)) {
     alert('Please enter an object name');

@@ -179,7 +179,7 @@ function DrawCanvasClosePolygon() {
 
   if (video_mode){
     var html_str = enterObjectNameHtml;
-    html_str += HTMLobjectBox("");
+    html_str += selectOptionBox("");
     
     if(use_attributes) {
       html_str += HTMLoccludedBox("");

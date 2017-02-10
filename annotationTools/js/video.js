@@ -538,7 +538,7 @@ function video(id) {
         var anno = select_anno;
       
       // object name
-      old_name = LMgetObjectField(LM_xml,anno.anno_id,'name');
+      old_name = LMgetObjectField(LM_xml, anno.anno_id, 'name');
       if(document.getElementById('objEnter')) new_name = RemoveSpecialChars(document.getElementById('objEnter').value);
       else new_name = RemoveSpecialChars(adjust_objEnter);
       

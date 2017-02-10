@@ -52,8 +52,11 @@ function CreatePopupBubble(left,top,innerHTML,dom_attach) {
   if (autocomplete_mode){
     addAutoComplete();
   }
+
+  postCreatePopupBubble();
   return bubble_name;
 }
+
 function addAutoComplete(){
 	var tags = [];
 	$.getScript("./annotationTools/js/wordnet_data.js", function(){
@@ -192,10 +195,13 @@ function CloseEditPopup() {
   $('#myPopup').remove();
 }
 
-// ****************************
-// Forms:
-// ****************************
-
+/**
+ * This is the original function when you create the popup after you draw the polygon.
+ * After you create the last point.
+ * @param scribble_form
+ * @returns {enterObjectNameHtml|*}
+ * @constructor
+ */
 function GetPopupFormDraw(scribble_form) {
   wait_for_input = 1;
   part_bubble = false;
@@ -204,7 +210,8 @@ function GetPopupFormDraw(scribble_form) {
     html_str = "<b>Enter part name</b><br />";
     part_bubble = true;
   }
-  html_str += HTMLobjectBox("");
+
+  html_str += selectOptionBox("");
   
   if(use_attributes) {
     html_str += HTMLoccludedBox("");
@@ -217,7 +224,7 @@ function GetPopupFormDraw(scribble_form) {
   html_str += "<br /><div class='equi_container'>";
   
   // Done button:
-  html_str += '<input type="button" value="Done" title="Press this button after you have provided all the information you want about the object." onclick="main_handler.SubmitQuery();" tabindex="0" />';
+  html_str += doneInputButtonHtml;
   
   // Delete button:
   html_str += '<input type="button" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.WhatIsThisObjectDeleteButton();" tabindex="0" />';
@@ -254,7 +261,7 @@ function GetPopupFormEdit(anno) {
   var parts = LMgetObjectField(LM_xml, anno.anno_id, 'parts');
   
   html_str = enterObjectNameHtml;
-  html_str += HTMLobjectBox(obj_name);
+  html_str += selectOptionBox(obj_name);
   
   if(use_attributes) {
     html_str += HTMLoccludedBox(occluded);
@@ -271,14 +278,15 @@ function GetPopupFormEdit(anno) {
   // Done button:
   if (video_mode) html_str += '<input type="button" value="Done" title="Press this button when you are done editing." onclick="main_media.SubmitEditObject();" tabindex="0" />';
   
-  else html_str += '<input type="button" value="Done" title="Press this button when you are done editing." onclick="main_handler.SubmitEditLabel();" tabindex="0" />';
+  else html_str += doneEditInputButtonHtml;
   
   /*************************************************************/
   /*************************************************************/
   // Scribble: if anno.GetType() != 0 then scribble mode:
 
-  // Delete button:
+  // Delete button
   html_str += '<input type="button" style="float:right" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.EditBubbleDeleteButton();" tabindex="0" /><br />';
+
   // Adjust polygon button:
   if (anno.GetType() == 0) {
     html_str += '<input type="button" value="Adjust polygon" title="Press this button if you wish to update the polygon\'s control points." onclick="javascript:AdjustPolygonButton();" />';
@@ -300,6 +308,101 @@ function GetPopupFormEdit(anno) {
 // ****************************
 // Simple building blocks:
 // ****************************
+
+function selectOptionBox(obj_name){
+
+  var html_str = "";
+  var var_name = main_media.GetFileInfo().GetDirName();
+  var roomName = window[var_name];
+
+  html_str += '<br/><div id="objEnterDiv"><select name="objEnter" id="objEnter">';
+  $.each(basicSelections, function(key, value) {
+        if(obj_name == key) {
+          html_str += '<option selected="selected">';
+          html_str += key
+          html_str += '</option>';
+        }else{
+          html_str += '<option>';
+          html_str += key
+          html_str += '</option>';
+        }
+      }
+  );
+
+  $.each(roomName, function(key, values) {
+      html_str += '<option>';
+
+      html_str += key;
+      html_str += '</option>';
+  });
+
+  var var_name = main_media.GetFileInfo().GetDirName();
+  var name = window[var_name];
+  html_str += '</select></div><br/>';
+
+  return html_str;
+}
+
+function postCreatePopupBubble(){
+  //html_str = '<div id="objEnterDiv2"><select name="objEnter2" id="objEnter2">';
+
+  var var_name = main_media.GetFileInfo().GetDirName();
+  var roomName = window[var_name];
+
+  //$.each(basicSelections, function(key, values) {
+  //       for (var i=0; i < values.length; i++) {
+  //         html_str += '<option>';
+  //         html_str += values[i];
+  //         html_str += '</option>';
+  //       }
+  //});
+  //
+  //
+  //html_str += "</select></div>";
+  //console.log(html_str);
+
+  $('#objEnter').change(function(event) {
+      //console.log(event.target.id);
+      //console.log(event);
+
+      obj_name = $(this).val();
+
+      html_str = '<div id="objEnterDiv2"><select name="objEnter2" id="objEnter2">';
+
+      $.each(basicSelections, function(key, values) {
+        if(obj_name == key) {
+          for (var i=0; i < values.length; i++) {
+            html_str += '<option>';
+            html_str += values[i];
+            html_str += '</option>';
+          }
+        }
+      });
+
+      $.each(roomName, function(key, values) {
+        if(obj_name == key) {
+          for (var i=0; i < values.length; i++) {
+            html_str += '<option>';
+            html_str += values[i];
+            html_str += '</option>';
+          }
+        }
+      });
+
+      html_str += "</select></div>";
+      console.log(html_str);
+
+      if ($("#objEnterDiv2").length == 0 ){
+        $("#objEnterDiv").append(html_str);
+      }else{
+        $("#objEnterDiv2").empty();
+        $("#objEnterDiv2").append(html_str);
+      }
+
+  });
+
+
+}
 
 // Shows the box to enter the object name
 function HTMLobjectBox(obj_name) {
@@ -395,3 +498,5 @@ function HTMLpartsBox(parts) {
   
   return html_str;
 }
+
+
