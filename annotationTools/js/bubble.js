@@ -274,7 +274,9 @@ function GetPopupFormEdit(anno) {
   }
   
   html_str += "<br />";
-  
+
+  html_str += '<div id="equi_container">';
+
   // Done button:
   if (video_mode) html_str += '<input type="button" value="Done" title="Press this button when you are done editing." onclick="main_media.SubmitEditObject();" tabindex="0" />';
   
@@ -285,7 +287,7 @@ function GetPopupFormEdit(anno) {
   // Scribble: if anno.GetType() != 0 then scribble mode:
 
   // Delete button
-  html_str += '<input type="button" style="float:right" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.EditBubbleDeleteButton();" tabindex="0" /><br />';
+  html_str += '<input type="button" value="Delete" title="Press this button if you wish to delete the polygon." onclick="main_handler.EditBubbleDeleteButton();" tabindex="0" /><br />';
 
   // Adjust polygon button:
   if (anno.GetType() == 0) {
@@ -301,6 +303,8 @@ function GetPopupFormEdit(anno) {
   if (add_parts_to == null && enable_addparts) {
     html_str += addPartsHtml;
   }
+
+  html_str += "</div>";
 
   return html_str;
 }
@@ -338,33 +342,19 @@ function selectOptionBox(obj_name){
 
   var var_name = main_media.GetFileInfo().GetDirName();
   var name = window[var_name];
-  html_str += '</select></div><br/>';
+  html_str += '</select></div>';
 
   return html_str;
 }
 
 function postCreatePopupBubble(){
-  //html_str = '<div id="objEnterDiv2"><select name="objEnter2" id="objEnter2">';
 
   var var_name = main_media.GetFileInfo().GetDirName();
   var roomName = window[var_name];
 
-  //$.each(basicSelections, function(key, values) {
-  //       for (var i=0; i < values.length; i++) {
-  //         html_str += '<option>';
-  //         html_str += values[i];
-  //         html_str += '</option>';
-  //       }
-  //});
-  //
-  //
-  //html_str += "</select></div>";
-  //console.log(html_str);
 
   $('#objEnter').change(function(event) {
-      //console.log(event.target.id);
-      //console.log(event);
-
+ 
       obj_name = $(this).val();
 
       html_str = '<div id="objEnterDiv2"><select name="objEnter2" id="objEnter2">';

@@ -80,6 +80,9 @@ function handler() {
             // attributes field
             if (document.getElementById('attributes')) new_attributes = RemoveSpecialChars(document.getElementById('attributes').value);
             else new_attributes = RemoveSpecialChars(adjust_attributes);
+        }else{
+            new_attributes = "";
+            new_occluded = "";
         }
 
         StopEditEvent();

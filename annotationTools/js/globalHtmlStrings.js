@@ -5,6 +5,7 @@ var enterObjectNameHtml = "<b>Use the drop down menu to select the right part: <
 var doneInputButtonHtml = '<input type="button" value="Done" title="Press this button after you have provided all the information you want about the object." onclick="main_handler.SubmitQuery();" tabindex="0" />';
 var doneEditInputButtonHtml = '<input type="button" value="Done" title="Press this button when you are done editing." onclick="main_handler.SubmitEditLabel();" tabindex="0" />'
 
+
 var pointOrLineChoices = 'line,horizon line';
 var addPartsHtml = '<input type="button" value="Add parts" title="Press this button if you want to start adding parts" onclick="main_handler.StartAddParts();" tabindex="0" />';
 var stopPartsHtml = '<input type="button" value="Stop parts" title="Press this button if you want to stop adding parts" onclick="main_handler.StopAddParts();" tabindex="0" />';
