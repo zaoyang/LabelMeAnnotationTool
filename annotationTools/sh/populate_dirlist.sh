@@ -32,7 +32,7 @@ dirlist=$1
 folder=$2
 
 
-baseurl = 'tagobject.com'
+baseurl='tagobject.com'
 
 videodirlist='labelmevideo.txt'
 # Handle empty input argument cases:
@@ -57,6 +57,9 @@ find $ImageDir | while read i; do
 #	echo $i
 		dname=$(dirname $i | sed -e s=$HOMEIMAGES/==);
 		iname=$(basename $i);
+
+        folder="$dname"
+
 		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2";
 		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2" >> $HOMEDIRLIST/$dirlist;
     fi
