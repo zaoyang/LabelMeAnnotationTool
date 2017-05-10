@@ -14,10 +14,10 @@ var stopPartsHtml = '<input type="button" value="Stop parts" title="Press this b
 var colors = ['red', 'yellow', 'blue', 'purple', 'orange', 'green', 'white', 'black', 'pink', 'beige', 'brown', 'grey'];
 
 var basicSelections = {
-    "wall" : colors,
+    "wallColor" : colors,
     "window" : ['small', 'medium', 'large', 'landscape', 'floor_to_ceiling'],
     "floor" : ['mosaic', 'tile', 'concrete', 'laminate', 'carpet'],
-    "wall" : ['granite', 'tile', 'wood', 'marble', 'painted', 'wallpaper', 'brick'],
+    "wallMaterial" : ['granite', 'tile', 'wood', 'marble', 'painted', 'wallpaper', 'brick'],
     "ceiling" : ['normal', 'tall'],
     "fireplace" : ['stone', 'concrete', 'brick'],
     "entertainment center" : [],
@@ -25,7 +25,9 @@ var basicSelections = {
     "crown molding" : [],
     "baseboard" : [],
     "loft" : [],
-    "lighting": ['chandeliers', 'pendants', 'recessed_lighting', 'wall_lighting', 'utility_lighting']
+    "countertop" : ['wood', 'stone', 'plastic'],
+    "lighting": ['chandeliers', 'pendants', 'recessed_lighting', 'wall_lighting', 'utility_lighting'],
+    "door": ['open','closed']
 };
 
 
