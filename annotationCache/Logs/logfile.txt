@@ -4640,3 +4640,675 @@
 10-May-2017 20:45:33 bathroom 2ac1d25d008efe00_2571-w500-h666-b0-p0-contemporary-bathroom 0 1 68.226.16.220  window,small 1 anonymous cpts_not_modified 0 0
 10-May-2017 20:45:36 68.226.16.220 *start_polygon
 10-May-2017 20:45:45 68.226.16.220 *What_is_this_object_query
+10-May-2017 20:46:02 bathroom 2ac1d25d008efe00_2571-w500-h666-b0-p0-contemporary-bathroom 1 2 68.226.16.220  floor,tile 2 anonymous cpts_not_modified 0 0
+10-May-2017 20:46:22 68.226.16.220 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 20:47:52 144.92.226.212 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+10-May-2017 20:47:52 144.92.226.212 *start_loading
+10-May-2017 20:47:59 99.123.144.255 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 20:47:59 99.123.144.255 *start_loading
+10-May-2017 20:57:02 75.164.133.252 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 20:57:02 75.164.133.252 *start_loading
+10-May-2017 20:57:46 68.198.89.114 *Browser_Information Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/58.0.3029.83 Mobile/14D27 Safari/602.1
+10-May-2017 20:57:46 68.198.89.114 *start_loading
+10-May-2017 21:01:06 199.227.54.106 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET CLR 1.1.4322; .NET4.0C; .NET4.0E; rv:11.0) like Gecko
+10-May-2017 21:01:06 199.227.54.106 *start_loading
+10-May-2017 21:04:16 73.60.80.223 *start_loading
+10-May-2017 21:04:16 73.60.80.223 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:08:17 75.137.22.78 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:08:17 75.137.22.78 *start_loading
+10-May-2017 21:10:07 75.137.22.78 *start_loading
+10-May-2017 21:10:07 75.137.22.78 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:10:07 75.137.22.78 *done_loading_Images/bathroom/494104fc08175c08_8011-w500-h400-b0-p0-beach-style-bathroom.jpg
+10-May-2017 21:10:51 75.137.22.78 *start_polygon
+10-May-2017 21:11:07 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:11:36 bathroom 494104fc08175c08_8011-w500-h400-b0-p0-beach-style-bathroom 1 2 75.137.22.78  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:11:53 75.137.22.78 *start_polygon
+10-May-2017 21:11:59 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:12:17 75.137.22.78 *start_polygon
+10-May-2017 21:12:23 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:12:31 bathroom 494104fc08175c08_8011-w500-h400-b0-p0-beach-style-bathroom 2 3 75.137.22.78  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:12:45 75.137.22.78 *start_polygon
+10-May-2017 21:12:48 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:12:55 75.137.22.78 *Opened_Edit_Popup
+10-May-2017 21:13:02 75.137.22.78 *Closed_Edit_Popup
+10-May-2017 21:13:02 bathroom 494104fc08175c08_8011-w500-h400-b0-p0-beach-style-bathroom 3 3 75.137.22.78  shower,window_door->shower 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:14:12 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:14:12 122.164.96.238 *start_loading
+10-May-2017 21:14:54 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:14:54 122.164.96.238 *start_loading
+10-May-2017 21:15:17 75.137.22.78 *start_loading
+10-May-2017 21:15:17 75.137.22.78 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:15:17 75.137.22.78 *done_loading_Images/bathroom/494104fc08175c08_8011-w500-h400-b0-p0-beach-style-bathroom.jpg
+10-May-2017 21:15:43 75.137.22.78 *start_loading
+10-May-2017 21:15:43 75.137.22.78 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:15:49 75.137.22.78 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:15:49 75.137.22.78 *start_loading
+10-May-2017 21:15:49 75.137.22.78 *done_loading_Images/bathroom/a6a1f92a03c95353_2222-w500-h666-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:15:55 75.137.22.78 *start_polygon
+10-May-2017 21:16:01 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:16:26 75.137.22.78 *start_polygon
+10-May-2017 21:16:34 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:16:37 75.137.22.78 *start_polygon
+10-May-2017 21:16:46 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:16:51 bathroom a6a1f92a03c95353_2222-w500-h666-b0-p0-contemporary-bathroom 0 1 75.137.22.78  sink, 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:16:56 75.137.22.78 *start_polygon
+10-May-2017 21:17:03 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:17:09 75.137.22.78 *start_polygon
+10-May-2017 21:17:14 75.137.22.78 *What_is_this_object_query
+10-May-2017 21:17:20 bathroom a6a1f92a03c95353_2222-w500-h666-b0-p0-contemporary-bathroom 1 2 75.137.22.78  ceiling,normal 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:20:50 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:20:50 122.164.96.238 *start_loading
+10-May-2017 21:23:39 96.38.69.218 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:23:39 96.38.69.218 *start_loading
+10-May-2017 21:24:18 122.164.26.175 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:24:18 96.38.69.218 *start_loading
+10-May-2017 21:24:18 96.38.69.218 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:24:19 122.164.26.175 *start_loading
+10-May-2017 21:24:19 96.38.69.218 *done_loading_Images/bathroom/62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom.jpg
+10-May-2017 21:24:58 122.164.26.175 *Browser_Information Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:24:58 122.164.26.175 *start_loading
+10-May-2017 21:25:03 96.38.69.218 *start_polygon
+10-May-2017 21:25:08 96.38.69.218 *What_is_this_object_query
+10-May-2017 21:25:10 200.88.113.22 *start_loading
+10-May-2017 21:25:10 200.88.113.22 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:25:27 bathroom 62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom 3 4 96.38.69.218  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:25:43 96.38.69.218 *Opened_Edit_Popup
+10-May-2017 21:25:46 96.38.69.218 *Deleting_object
+10-May-2017 21:25:46 bathroom 62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom 4 4 96.38.69.218  bath_tub, 0 anonymous cpts_not_modified 0 1
+10-May-2017 21:25:46 96.38.69.218 *Closed_Edit_Popup
+10-May-2017 21:25:51 96.38.69.218 *start_polygon
+10-May-2017 21:25:59 96.38.69.218 *What_is_this_object_query
+10-May-2017 21:26:11 bathroom 62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom 4 5 96.38.69.218  floor,laminate 1 anonymous cpts_not_modified 1 1
+10-May-2017 21:26:15 96.38.69.218 *Opened_Edit_Popup
+10-May-2017 21:26:22 96.38.69.218 *Closed_Edit_Popup
+10-May-2017 21:26:22 bathroom 62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom 5 5 96.38.69.218  floor,laminate->floor 1 anonymous cpts_not_modified 1 1
+10-May-2017 21:26:33 96.38.69.218 *start_polygon
+10-May-2017 21:26:43 96.38.69.218 *What_is_this_object_query
+10-May-2017 21:26:52 bathroom 62d1de3807baa0dd_1278-w500-h400-b0-p0-modern-bathroom 5 6 96.38.69.218  ceiling,normal 2 anonymous cpts_not_modified 1 1
+10-May-2017 21:27:01 68.4.192.232 *Browser_Information Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+10-May-2017 21:27:01 68.4.192.232 *start_loading
+10-May-2017 21:27:03 98.21.63.236 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; McAfee; rv:11.0) like Gecko
+10-May-2017 21:27:03 98.21.63.236 *start_loading
+10-May-2017 21:30:33 63.155.20.53 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0 Waterfox/53.0
+10-May-2017 21:30:33 63.155.20.53 *start_loading
+10-May-2017 21:31:03 109.177.219.150 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:31:03 109.177.219.150 *start_loading
+10-May-2017 21:31:44 31.53.89.2 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:31:44 31.53.89.2 *start_loading
+10-May-2017 21:31:46 31.53.89.2 *done_loading_Images/bathroom/52d10dd00812979a_9990-w500-h400-b0-p0-rustic-bathroom.jpg
+10-May-2017 21:32:04 31.53.89.2 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:32:04 31.53.89.2 *start_loading
+10-May-2017 21:33:38 207.118.226.232 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+10-May-2017 21:33:38 207.118.226.232 *start_loading
+10-May-2017 21:35:15 67.11.212.123 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:35:15 67.11.212.123 *start_loading
+10-May-2017 21:35:34 67.11.212.123 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:35:34 67.11.212.123 *start_loading
+10-May-2017 21:35:34 67.11.212.123 *done_loading_Images/bathroom/8081786707bf257c_2609-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 21:36:19 71.132.194.78 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+10-May-2017 21:36:19 71.132.194.78 *start_loading
+10-May-2017 21:36:20 71.132.194.78 *done_loading_Images/bathroom/0621239607d82648_3377-w500-h666-b0-p0-industrial-bathroom.jpg
+10-May-2017 21:36:25 71.132.194.78 *start_polygon
+10-May-2017 21:36:27 71.132.194.78 *What_is_this_object_query
+10-May-2017 21:37:29 71.132.194.78 *start_loading
+10-May-2017 21:37:29 71.132.194.78 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+10-May-2017 21:39:12 184.170.68.187 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:39:12 184.170.68.187 *start_loading
+10-May-2017 21:39:43 184.17.178.202 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:39:43 184.17.178.202 *start_loading
+10-May-2017 21:39:43 184.17.178.202 *done_loading_Images/bathroom/116106450364059b_1416-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:39:58 108.201.226.41 *Browser_Information Mozilla/5.0 (Android 5.0; Tablet; rv:53.0) Gecko/53.0 Firefox/53.0
+10-May-2017 21:39:58 108.201.226.41 *start_loading
+10-May-2017 21:40:00 24.166.18.229 *start_loading
+10-May-2017 21:40:00 24.166.18.229 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:40:27 24.166.18.229 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:40:27 24.166.18.229 *start_loading
+10-May-2017 21:40:28 24.166.18.229 *done_loading_Images/bathroom/9f619ad408740858_5565-w500-h400-b0-p0-beach-style-bathroom.jpg
+10-May-2017 21:40:38 24.166.18.229 *start_polygon
+10-May-2017 21:40:48 24.166.18.229 *What_is_this_object_query
+10-May-2017 21:41:10 bathroom 9f619ad408740858_5565-w500-h400-b0-p0-beach-style-bathroom 0 1 24.166.18.229  vanity,small 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:41:19 24.166.18.229 *start_polygon
+10-May-2017 21:41:27 184.17.178.202 *start_polygon
+10-May-2017 21:41:28 24.166.18.229 *What_is_this_object_query
+10-May-2017 21:41:41 bathroom 9f619ad408740858_5565-w500-h400-b0-p0-beach-style-bathroom 1 2 24.166.18.229  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:41:41 184.17.178.202 *What_is_this_object_query
+10-May-2017 21:42:02 24.166.18.229 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:42:02 24.166.18.229 *start_loading
+10-May-2017 21:42:09 bathroom 116106450364059b_1416-w500-h400-b0-p0-contemporary-bathroom 0 1 184.17.178.202  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:42:11 184.17.178.202 *Opened_Edit_Popup
+10-May-2017 21:42:13 184.17.178.202 *Closed_Edit_Popup
+10-May-2017 21:42:17 184.17.178.202 *start_polygon
+10-May-2017 21:42:19 184.17.178.202 *What_is_this_object_query
+10-May-2017 21:42:33 184.17.178.202 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:42:33 184.17.178.202 *start_loading
+10-May-2017 21:42:45 173.217.189.127 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:42:45 173.217.189.127 *start_loading
+10-May-2017 21:43:08 24.183.79.20 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:43:08 24.183.79.20 *start_loading
+10-May-2017 21:48:11 173.216.208.98 *start_loading
+10-May-2017 21:48:11 173.216.208.98 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:48:11 173.216.208.98 *done_loading_Images/bathroom/9ef1e6a808470ff4_4898-w500-h666-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:48:20 173.216.208.98 *start_polygon
+10-May-2017 21:48:33 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:48:49 173.216.208.98 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:48:49 173.216.208.98 *start_loading
+10-May-2017 21:48:50 173.216.208.98 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:48:50 173.216.208.98 *start_loading
+10-May-2017 21:48:50 173.216.208.98 *done_loading_Images/bathroom/7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 21:48:53 173.216.208.98 *start_polygon
+10-May-2017 21:48:58 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:49:25 173.216.208.98 *start_polygon
+10-May-2017 21:49:31 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:49:39 bathroom 7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom 0 1 173.216.208.98  countertop,stone 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:49:42 173.216.208.98 *start_polygon
+10-May-2017 21:49:47 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:49:53 123.236.68.181 *Browser_Information Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 21:50:05 173.216.208.98 *start_polygon
+10-May-2017 21:50:14 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:50:23 bathroom 7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom 1 2 173.216.208.98  crown_molding, 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:50:39 173.216.208.98 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:50:39 173.216.208.98 *start_loading
+10-May-2017 21:50:41 173.216.208.98 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:50:41 173.216.208.98 *start_loading
+10-May-2017 21:50:41 173.216.208.98 *done_loading_Images/bathroom/7e7122de071a442e_8939-w500-h666-b0-p0-transitional-bathroom.jpg
+10-May-2017 21:50:46 173.216.208.98 *start_polygon
+10-May-2017 21:50:50 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:50:55 173.216.208.98 *start_polygon
+10-May-2017 21:51:01 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:51:07 bathroom 7e7122de071a442e_8939-w500-h666-b0-p0-transitional-bathroom 0 1 173.216.208.98  lighting,wall_lighting 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:51:13 173.216.208.98 *start_polygon
+10-May-2017 21:51:19 173.216.208.98 *What_is_this_object_query
+10-May-2017 21:51:26 bathroom 7e7122de071a442e_8939-w500-h666-b0-p0-transitional-bathroom 1 2 173.216.208.98  wallmaterial,tile 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:51:27 65.183.210.62 *start_loading
+10-May-2017 21:51:27 65.183.210.62 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 21:51:29 65.183.210.62 *done_loading_Images/bathroom/2be1531507f5a7be_4047-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:51:35 65.183.210.62 *start_polygon
+10-May-2017 21:51:42 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:51:42 173.94.13.35 *start_loading
+10-May-2017 21:51:44 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:51:48 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:51:48 173.94.13.35 *start_loading
+10-May-2017 21:51:48 173.94.13.35 *done_loading_Images/bathroom/5441d149038c9d46_8050-w500-h666-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:52:00 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:52:00 173.94.13.35 *start_loading
+10-May-2017 21:52:07 bathroom 2be1531507f5a7be_4047-w500-h400-b0-p0-contemporary-bathroom 0 1 65.183.210.62  door,open 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:52:07 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:52:07 65.183.210.62 *start_polygon
+10-May-2017 21:52:28 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:52:31 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:52:31 122.164.234.227 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:52:31 122.164.234.227 *start_loading
+10-May-2017 21:52:41 65.183.210.62 *start_polygon
+10-May-2017 21:52:49 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:53:06 65.183.210.62 *start_polygon
+10-May-2017 21:53:10 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:53:16 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:53:16 173.94.13.35 *start_loading
+10-May-2017 21:53:17 173.94.13.35 *done_loading_Images/bathroom/7cc11e050f3abdb0_3290-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 21:53:18 bathroom 2be1531507f5a7be_4047-w500-h400-b0-p0-contemporary-bathroom 1 2 65.183.210.62  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:53:21 65.183.210.62 *start_polygon
+10-May-2017 21:53:26 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:53:26 173.94.13.35 *start_loading
+10-May-2017 21:53:29 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:53:29 173.94.13.35 *start_loading
+10-May-2017 21:53:30 173.94.13.35 *done_loading_Images/bathroom/3a410949081b1410_7902-w500-h666-b0-p0-transitional-bathroom.jpg
+10-May-2017 21:53:31 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:53:37 65.183.210.62 *start_polygon
+10-May-2017 21:53:40 173.94.13.35 *start_polygon
+10-May-2017 21:53:48 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:53:52 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:53:53 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:53:53 173.94.13.35 *start_loading
+10-May-2017 21:53:57 bathroom 2be1531507f5a7be_4047-w500-h400-b0-p0-contemporary-bathroom 2 3 65.183.210.62  bath_tub, 3 anonymous cpts_not_modified 0 0
+10-May-2017 21:54:00 173.94.13.35 *start_loading
+10-May-2017 21:54:00 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:54:00 173.94.13.35 *done_loading_Images/bathroom/07b12e8f064a618d_4071-w500-h400-b0-p0-farmhouse-bathroom.jpg
+10-May-2017 21:54:05 173.94.13.35 *start_polygon
+10-May-2017 21:54:08 65.183.210.62 *start_polygon
+10-May-2017 21:54:16 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:54:16 173.94.13.35 *start_loading
+10-May-2017 21:54:19 173.94.13.35 *start_loading
+10-May-2017 21:54:19 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:54:19 173.94.13.35 *done_loading_Images/bathroom/a841f00f03fec250_4059-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:54:20 65.183.210.62 *What_is_this_object_query
+10-May-2017 21:54:25 173.94.13.35 *start_polygon
+10-May-2017 21:54:33 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:54:37 bathroom 2be1531507f5a7be_4047-w500-h400-b0-p0-contemporary-bathroom 3 4 65.183.210.62  vanity,large 4 anonymous cpts_not_modified 0 0
+10-May-2017 21:54:40 65.183.210.62 *start_polygon
+10-May-2017 21:54:44 173.94.13.35 *start_loading
+10-May-2017 21:54:44 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:55:02 173.94.13.35 *start_loading
+10-May-2017 21:55:02 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:55:02 173.94.13.35 *done_loading_Images/bathroom/0f21d67e0362b965_1596-w500-h666-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:55:07 173.94.13.35 *start_polygon
+10-May-2017 21:55:13 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:55:27 bathroom 0f21d67e0362b965_1596-w500-h666-b0-p0-contemporary-bathroom 0 1 173.94.13.35  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:55:33 173.94.13.35 *start_polygon
+10-May-2017 21:55:42 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:55:46 bathroom 0f21d67e0362b965_1596-w500-h666-b0-p0-contemporary-bathroom 1 2 173.94.13.35  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:55:49 173.94.13.35 *Opened_Edit_Popup
+10-May-2017 21:55:51 173.94.13.35 *Closed_Edit_Popup
+10-May-2017 21:55:51 bathroom 0f21d67e0362b965_1596-w500-h666-b0-p0-contemporary-bathroom 2 2 173.94.13.35  sink,->wallcolor 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:56:02 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:56:02 173.94.13.35 *start_loading
+10-May-2017 21:56:07 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:56:07 173.94.13.35 *start_loading
+10-May-2017 21:56:07 173.94.13.35 *done_loading_Images/bathroom/95d1d119021cfd33_0585-w500-h666-b0-p0-contemporary-bathroom.jpg
+10-May-2017 21:56:15 173.94.13.35 *start_polygon
+10-May-2017 21:56:23 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:56:27 bathroom 95d1d119021cfd33_0585-w500-h666-b0-p0-contemporary-bathroom 0 1 173.94.13.35  shower,curtain 1 anonymous cpts_not_modified 0 0
+10-May-2017 21:56:32 173.94.13.35 *start_polygon
+10-May-2017 21:56:37 173.94.13.35 *What_is_this_object_query
+10-May-2017 21:56:46 bathroom 95d1d119021cfd33_0585-w500-h666-b0-p0-contemporary-bathroom 1 2 173.94.13.35  window,large 2 anonymous cpts_not_modified 0 0
+10-May-2017 21:57:01 173.94.13.35 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 21:57:01 173.94.13.35 *start_loading
+10-May-2017 22:00:00 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:00:00 173.27.197.50 *start_loading
+10-May-2017 22:00:22 108.208.172.80 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:00:22 108.208.172.80 *start_loading
+10-May-2017 22:01:05 173.27.197.50 *start_loading
+10-May-2017 22:01:05 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:01:16 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:01:16 173.27.197.50 *start_loading
+10-May-2017 22:01:16 173.27.197.50 *done_loading_Images/bathroom/3df119720f830ce1_3182-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:02:23 108.208.172.80 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:02:23 108.208.172.80 *start_loading
+10-May-2017 22:02:30 173.27.197.50 *start_loading
+10-May-2017 22:02:30 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:02:33 173.27.197.50 *start_loading
+10-May-2017 22:02:33 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:02:33 173.27.197.50 *done_loading_Images/bathroom/51318c930878ff51_9418-w500-h400-b0-p0-transitional-bathroom.jpg
+10-May-2017 22:02:35 108.208.172.80 *done_loading_Images/bathroom/ace11783023c8a50_7935-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:02:35 108.208.172.80 *start_polygon
+10-May-2017 22:02:38 173.27.197.50 *start_polygon
+10-May-2017 22:02:57 173.27.197.50 *What_is_this_object_query
+10-May-2017 22:03:24 bathroom 51318c930878ff51_9418-w500-h400-b0-p0-transitional-bathroom 0 1 173.27.197.50  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:03:27 173.27.197.50 *Opened_Edit_Popup
+10-May-2017 22:03:28 108.208.172.80 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:03:28 108.208.172.80 *start_loading
+10-May-2017 22:03:33 173.27.197.50 *Closed_Edit_Popup
+10-May-2017 22:03:33 173.27.197.50 *Deleting_object
+10-May-2017 22:03:33 bathroom 51318c930878ff51_9418-w500-h400-b0-p0-transitional-bathroom 1 1 173.27.197.50  bath_tub, 0 anonymous cpts_not_modified 0 1
+10-May-2017 22:03:40 173.27.197.50 *start_polygon
+10-May-2017 22:03:49 173.27.197.50 *What_is_this_object_query
+10-May-2017 22:04:01 bathroom 51318c930878ff51_9418-w500-h400-b0-p0-transitional-bathroom 1 2 173.27.197.50  lighting,chandeliers 1 anonymous cpts_not_modified 1 1
+10-May-2017 22:04:03 173.27.197.50 *start_polygon
+10-May-2017 22:04:07 173.27.197.50 *What_is_this_object_query
+10-May-2017 22:04:24 bathroom 51318c930878ff51_9418-w500-h400-b0-p0-transitional-bathroom 2 3 173.27.197.50  vanity,small 2 anonymous cpts_not_modified 1 1
+10-May-2017 22:04:51 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:04:51 173.27.197.50 *start_loading
+10-May-2017 22:04:56 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:04:56 173.27.197.50 *start_loading
+10-May-2017 22:04:56 173.27.197.50 *done_loading_Images/bathroom/3c9118480696d5e2_1865-w500-h666-b0-p0-scandinavian-bathroom.jpg
+10-May-2017 22:04:59 173.27.197.50 *start_polygon
+10-May-2017 22:05:04 173.27.197.50 *What_is_this_object_query
+10-May-2017 22:05:18 198.72.161.193 *Browser_Information Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:05:18 198.72.161.193 *start_loading
+10-May-2017 22:05:27 bathroom 3c9118480696d5e2_1865-w500-h666-b0-p0-scandinavian-bathroom 0 1 173.27.197.50  vanity,medium 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:05:30 173.27.197.50 *start_polygon
+10-May-2017 22:05:35 173.27.197.50 *What_is_this_object_query
+10-May-2017 22:05:40 bathroom 3c9118480696d5e2_1865-w500-h666-b0-p0-scandinavian-bathroom 1 2 173.27.197.50  vanity,medium 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:05:45 172.58.144.216 *Browser_Information Mozilla/5.0 (Linux; Android 6.0.1; SM-G925T Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
+10-May-2017 22:05:45 172.58.144.216 *start_loading
+10-May-2017 22:05:53 173.27.197.50 *start_loading
+10-May-2017 22:05:53 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:06:02 173.27.197.50 *start_loading
+10-May-2017 22:06:02 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:06:05 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:06:05 173.27.197.50 *start_loading
+10-May-2017 22:06:07 173.27.197.50 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.16179
+10-May-2017 22:06:07 173.27.197.50 *start_loading
+10-May-2017 22:06:22 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:06:23 65.129.206.74 *start_loading
+10-May-2017 22:07:26 173.3.55.149 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:07:26 173.3.55.149 *start_loading
+10-May-2017 22:07:46 69.204.132.114 *start_loading
+10-May-2017 22:07:46 69.204.132.114 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:09:00 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:09:00 65.129.206.74 *start_loading
+10-May-2017 22:09:02 65.129.206.74 *done_loading_Images/bathroom/b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:09:43 64.106.62.128 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:09:43 64.106.62.128 *start_loading
+10-May-2017 22:09:48 65.129.206.74 *start_polygon
+10-May-2017 22:09:58 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:10:18 65.129.206.74 *start_polygon
+10-May-2017 22:10:23 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:10:32 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 2 3 65.129.206.74  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:11:02 65.129.206.74 *start_polygon
+10-May-2017 22:11:06 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:11:28 65.129.206.74 *start_polygon
+10-May-2017 22:11:37 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:12:05 65.129.206.74 *start_polygon
+10-May-2017 22:12:09 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:12:16 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 3 4 65.129.206.74  floor,tile 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:12:25 65.129.206.74 *start_polygon
+10-May-2017 22:12:37 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:12:42 1.186.38.3 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:12:42 1.186.38.3 *start_loading
+10-May-2017 22:12:54 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 4 5 65.129.206.74  lighting,recessed_lighting 3 anonymous cpts_not_modified 0 0
+10-May-2017 22:12:56 65.129.206.74 *start_polygon
+10-May-2017 22:13:00 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:13:08 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 5 6 65.129.206.74  lighting,wall_lighting 4 anonymous cpts_not_modified 0 0
+10-May-2017 22:14:08 65.129.206.74 *start_polygon
+10-May-2017 22:14:12 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:14:17 65.129.206.74 *start_polygon
+10-May-2017 22:14:21 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:14:53 65.129.206.74 *start_polygon
+10-May-2017 22:14:53 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:15:00 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 6 7 65.129.206.74  crown_molding, 5 anonymous cpts_not_modified 0 0
+10-May-2017 22:15:12 65.129.206.74 *start_polygon
+10-May-2017 22:15:12 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:15:28 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 7 8 65.129.206.74  wallmaterial,tile 6 anonymous cpts_not_modified 0 0
+10-May-2017 22:15:43 65.129.206.74 *Opened_Edit_Popup
+10-May-2017 22:16:09 65.129.206.74 *Closed_Edit_Popup
+10-May-2017 22:16:10 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 8 8 65.129.206.74  wallmaterial,tile->wallmaterial 6 anonymous cpts_not_modified 0 0
+10-May-2017 22:16:11 65.129.206.74 *start_polygon
+10-May-2017 22:16:12 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:16:18 65.129.206.74 *start_polygon
+10-May-2017 22:16:19 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:16:27 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 8 9 65.129.206.74  floor,tile 8 anonymous cpts_not_modified 0 0
+10-May-2017 22:16:31 65.129.206.74 *start_polygon
+10-May-2017 22:16:31 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:17:13 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:17:13 65.129.206.74 *start_loading
+10-May-2017 22:17:13 65.129.206.74 *done_loading_Images/bathroom/b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:17:35 65.129.206.74 *start_polygon
+10-May-2017 22:17:38 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:17:45 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:17:45 65.129.206.74 *start_polygon
+10-May-2017 22:17:56 65.129.206.74 *start_polygon
+10-May-2017 22:17:57 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:18:02 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 9 10 65.129.206.74  ceiling,tall 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:18:14 65.129.206.74 *start_polygon
+10-May-2017 22:18:14 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:18:32 65.129.206.74 *start_polygon
+10-May-2017 22:18:32 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:18:36 65.129.206.74 *start_polygon
+10-May-2017 22:18:36 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:18:44 65.129.206.74 *start_polygon
+10-May-2017 22:18:44 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:18:55 bathroom b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom 10 11 65.129.206.74  color, 3 anonymous cpts_not_modified 0 0
+10-May-2017 22:19:00 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:19:01 50.198.212.130 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:19:01 50.198.212.130 *start_loading
+10-May-2017 22:19:10 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:19:10 65.129.206.74 *start_loading
+10-May-2017 22:19:11 65.129.206.74 *done_loading_Images/bathroom/73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:19:17 65.128.147.78 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:19:17 65.128.147.78 *start_loading
+10-May-2017 22:19:32 65.129.206.74 *start_polygon
+10-May-2017 22:20:06 65.129.206.74 *start_polygon
+10-May-2017 22:20:11 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:20:23 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 0 1 65.129.206.74  lighting,wall_lighting 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:20:25 65.129.206.74 *start_polygon
+10-May-2017 22:20:30 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:20:32 65.129.206.74 *start_polygon
+10-May-2017 22:20:38 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:20:47 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 1 2 65.129.206.74  countertop,stone 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:21:16 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:21:16 65.129.206.74 *start_loading
+10-May-2017 22:21:17 65.129.206.74 *done_loading_Images/bathroom/73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:21:24 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:21:24 65.129.206.74 *start_loading
+10-May-2017 22:21:24 65.129.206.74 *done_loading_Images/bathroom/73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:21:27 65.129.206.74 *start_loading
+10-May-2017 22:21:27 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:21:27 65.129.206.74 *done_loading_Images/bathroom/b8d1fcd40221f40c_0058-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:21:53 71.80.119.28 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 OPR/43.0.2442.1144
+10-May-2017 22:21:53 71.80.119.28 *start_loading
+10-May-2017 22:23:08 75.98.178.126 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 22:23:08 75.98.178.126 *start_loading
+10-May-2017 22:24:45 122.164.26.175 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:24:45 122.164.26.175 *start_loading
+10-May-2017 22:24:50 104.189.237.148 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:24:50 104.189.237.148 *start_loading
+10-May-2017 22:25:53 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:25:53 122.164.96.238 *start_loading
+10-May-2017 22:26:29 98.4.30.15 *start_loading
+10-May-2017 22:26:29 98.4.30.15 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:27:11 61.3.122.45 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:27:11 61.3.122.45 *start_loading
+10-May-2017 22:27:15 61.3.122.45 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:27:16 61.3.122.45 *start_loading
+10-May-2017 22:27:17 61.3.122.45 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:27:17 61.3.122.45 *start_loading
+10-May-2017 22:27:30 65.129.206.74 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 22:27:30 65.129.206.74 *start_loading
+10-May-2017 22:27:30 65.129.206.74 *done_loading_Images/bathroom/73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:27:40 65.129.206.74 *start_polygon
+10-May-2017 22:27:49 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:27:54 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 2 3 65.129.206.74  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:28:01 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:28:12 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 3 4 65.129.206.74  vanity,small 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:28:19 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:28:19 65.129.206.74 *start_polygon
+10-May-2017 22:28:24 117.206.127.224 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:28:24 117.206.127.224 *start_loading
+10-May-2017 22:28:26 65.129.206.74 *start_polygon
+10-May-2017 22:28:26 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:28:29 209.150.58.25 *start_loading
+10-May-2017 22:28:29 209.150.58.25 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 22:28:37 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 4 5 65.129.206.74  ceiling,tall 3 anonymous cpts_not_modified 0 0
+10-May-2017 22:28:43 172.58.153.238 *start_loading
+10-May-2017 22:28:43 172.58.153.238 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729; Tablet PC 2.0; TNJB; rv:11.0) like Gecko
+10-May-2017 22:28:46 65.129.206.74 *start_polygon
+10-May-2017 22:28:51 65.129.206.74 *What_is_this_object_query
+10-May-2017 22:28:59 bathroom 73a1baf204318a97_7019-w500-h666-b0-p0-traditional-bathroom 5 6 65.129.206.74  vanity,double_vanity 4 anonymous cpts_not_modified 0 0
+10-May-2017 22:29:25 122.164.26.175 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:29:25 122.164.26.175 *start_loading
+10-May-2017 22:33:06 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:33:06 71.12.241.60 *start_loading
+10-May-2017 22:33:07 71.12.241.60 *done_loading_Images/bathroom/d8712145081b69a4_7756-w500-h400-b0-p0-rustic-bathroom.jpg
+10-May-2017 22:33:22 71.12.241.60 *start_polygon
+10-May-2017 22:33:26 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:34:04 bathroom d8712145081b69a4_7756-w500-h400-b0-p0-rustic-bathroom 0 1 71.12.241.60  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:34:18 71.12.241.60 *start_polygon
+10-May-2017 22:34:19 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:34:29 bathroom d8712145081b69a4_7756-w500-h400-b0-p0-rustic-bathroom 1 2 71.12.241.60  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:34:52 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:34:52 71.12.241.60 *start_loading
+10-May-2017 22:35:07 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:35:07 71.12.241.60 *start_loading
+10-May-2017 22:35:07 71.12.241.60 *done_loading_Images/bathroom/cf3111130426c707_1308-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:35:14 71.12.241.60 *start_polygon
+10-May-2017 22:35:15 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:35:22 bathroom cf3111130426c707_1308-w500-h400-b0-p0-traditional-bathroom 0 1 71.12.241.60  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:35:25 71.12.241.60 *start_polygon
+10-May-2017 22:35:26 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:35:33 bathroom cf3111130426c707_1308-w500-h400-b0-p0-traditional-bathroom 1 2 71.12.241.60  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:35:48 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:35:48 71.12.241.60 *start_loading
+10-May-2017 22:37:38 71.12.241.60 *start_loading
+10-May-2017 22:37:38 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:37:39 71.12.241.60 *done_loading_Images/bathroom/7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 22:37:45 71.190.82.57 *Browser_Information Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:37:45 71.190.82.57 *start_loading
+10-May-2017 22:38:00 71.12.241.60 *start_polygon
+10-May-2017 22:38:01 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:38:10 bathroom 7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom 2 3 71.12.241.60  shower,window_door 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:38:16 63.146.151.178 *Browser_Information Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920T Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.0 Chrome/51.0.2704.106 Mobile Safari/537.36
+10-May-2017 22:38:16 63.146.151.178 *start_loading
+10-May-2017 22:38:16 71.12.241.60 *start_polygon
+10-May-2017 22:38:17 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:38:38 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:38:43 72.77.89.82 *start_loading
+10-May-2017 22:38:43 72.77.89.82 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+10-May-2017 22:38:44 71.12.241.60 *start_polygon
+10-May-2017 22:38:48 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:38:59 104.190.24.240 *Browser_Information Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+10-May-2017 22:38:59 104.190.24.240 *start_loading
+10-May-2017 22:39:03 71.12.241.60 *What_is_this_object_query
+10-May-2017 22:39:25 bathroom 7e91724100b55560_0622-w500-h400-b0-p0-traditional-bathroom 3 4 71.12.241.60  vanity,wood 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:39:32 71.12.241.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:39:32 71.12.241.60 *start_loading
+10-May-2017 22:39:59 99.42.145.134 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:39:59 99.42.145.134 *start_loading
+10-May-2017 22:41:20 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:41:20 122.164.96.238 *start_loading
+10-May-2017 22:42:25 47.159.227.14 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 22:42:25 47.159.227.14 *start_loading
+10-May-2017 22:43:49 70.199.6.235 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:43:49 70.199.6.235 *start_loading
+10-May-2017 22:44:40 98.226.47.84 *start_loading
+10-May-2017 22:44:40 98.226.47.84 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:44:59 101.222.229.73 *Browser_Information Mozilla/5.0 (Linux; U; Android 4.4.4; en-US; YU5510A Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/11.2.8.945 U3/0.8.0 Mobile Safari/534.30
+10-May-2017 22:44:59 101.222.229.73 *start_loading
+10-May-2017 22:46:04 68.106.24.5 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:46:04 68.106.24.5 *start_loading
+10-May-2017 22:46:20 105.186.85.26 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:46:20 105.186.85.26 *start_loading
+10-May-2017 22:46:27 105.186.85.26 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:46:28 105.186.85.26 *start_loading
+10-May-2017 22:46:30 105.186.85.26 *done_loading_Images/bathroom/49f17c50061be82b_1335-w500-h400-b0-p0-mediterranean-bathroom.jpg
+10-May-2017 22:46:38 105.186.85.26 *start_polygon
+10-May-2017 22:46:42 105.186.85.26 *What_is_this_object_query
+10-May-2017 22:46:50 105.186.85.26 *What_is_this_object_query
+10-May-2017 22:46:53 105.186.85.26 *start_polygon
+10-May-2017 22:46:58 105.186.85.26 *What_is_this_object_query
+10-May-2017 22:47:24 bathroom 49f17c50061be82b_1335-w500-h400-b0-p0-mediterranean-bathroom 0 1 105.186.85.26  vanity,medium 1 anonymous cpts_not_modified 0 0
+10-May-2017 22:47:26 105.186.85.26 *start_polygon
+10-May-2017 22:47:29 105.186.85.26 *What_is_this_object_query
+10-May-2017 22:47:41 bathroom 49f17c50061be82b_1335-w500-h400-b0-p0-mediterranean-bathroom 1 2 105.186.85.26  lighting,wall_lighting 2 anonymous cpts_not_modified 0 0
+10-May-2017 22:47:41 105.186.85.26 *start_polygon
+10-May-2017 22:47:45 99.47.74.208 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+10-May-2017 22:47:45 99.47.74.208 *start_loading
+10-May-2017 22:48:03 105.186.85.26 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:48:03 105.186.85.26 *start_loading
+10-May-2017 22:48:03 96.242.144.169 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; InfoPath.3; rv:11.0) like Gecko
+10-May-2017 22:48:03 96.242.144.169 *start_loading
+10-May-2017 22:50:18 68.201.11.62 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:50:18 68.201.11.62 *start_loading
+10-May-2017 22:50:48 67.247.30.157 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:50:48 67.247.30.157 *start_loading
+10-May-2017 22:51:03 112.198.71.71 *start_loading
+10-May-2017 22:51:03 112.198.71.71 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 22:54:18 77.71.188.200 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+10-May-2017 22:54:18 77.71.188.200 *start_loading
+10-May-2017 22:54:18 72.83.41.232 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:54:18 72.83.41.232 *start_loading
+10-May-2017 22:59:13 122.164.96.238 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 22:59:13 122.164.96.238 *start_loading
+10-May-2017 23:00:04 98.167.136.145 *Browser_Information Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1
+10-May-2017 23:00:04 98.167.136.145 *start_loading
+10-May-2017 23:00:40 100.34.15.108 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 23:00:40 100.34.15.108 *start_loading
+10-May-2017 23:01:25 108.132.11.87 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:01:25 108.132.11.87 *start_loading
+10-May-2017 23:01:26 108.132.11.87 *done_loading_Images/bathroom/6d1142040848c169_4503-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 23:02:11 108.132.11.87 *start_polygon
+10-May-2017 23:02:13 108.132.11.87 *What_is_this_object_query
+10-May-2017 23:02:31 108.132.11.87 *start_polygon
+10-May-2017 23:02:32 108.132.11.87 *What_is_this_object_query
+10-May-2017 23:02:43 bathroom 6d1142040848c169_4503-w500-h400-b0-p0-contemporary-bathroom 0 1 108.132.11.87  window,medium 1 anonymous cpts_not_modified 0 0
+10-May-2017 23:02:46 108.132.11.87 *start_polygon
+10-May-2017 23:02:47 108.132.11.87 *What_is_this_object_query
+10-May-2017 23:02:57 bathroom 6d1142040848c169_4503-w500-h400-b0-p0-contemporary-bathroom 1 2 108.132.11.87  sink, 2 anonymous cpts_not_modified 0 0
+10-May-2017 23:03:12 108.132.11.87 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:03:12 108.132.11.87 *start_loading
+10-May-2017 23:03:12 108.132.11.87 *done_loading_Images/bathroom/6d1142040848c169_4503-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 23:03:22 108.132.11.87 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:03:22 108.132.11.87 *start_loading
+10-May-2017 23:03:26 73.97.94.184 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:03:26 73.97.94.184 *start_loading
+10-May-2017 23:06:49 43.246.106.29 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:06:49 43.246.106.29 *start_loading
+10-May-2017 23:06:52 43.246.106.29 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:06:52 43.246.106.29 *start_loading
+10-May-2017 23:06:57 43.246.106.29 *done_loading_Images/bathroom/40513d9a054184f4_6315-w500-h666-b0-p0-craftsman-bathroom.jpg
+10-May-2017 23:07:08 43.246.106.29 *start_polygon
+10-May-2017 23:07:47 24.237.150.118 *start_loading
+10-May-2017 23:07:47 24.237.150.118 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:07:52 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:07:57 bathroom 40513d9a054184f4_6315-w500-h666-b0-p0-craftsman-bathroom 0 1 43.246.106.29  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 23:08:09 43.246.106.29 *start_polygon
+10-May-2017 23:08:39 73.164.242.78 *start_loading
+10-May-2017 23:08:39 73.164.242.78 *Browser_Information Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 23:08:47 43.246.106.29 *start_polygon
+10-May-2017 23:08:53 43.246.106.29 *Opened_Edit_Popup
+10-May-2017 23:08:56 43.246.106.29 *Deleting_object
+10-May-2017 23:08:56 43.246.106.29 *Closed_Edit_Popup
+10-May-2017 23:08:56 bathroom 40513d9a054184f4_6315-w500-h666-b0-p0-craftsman-bathroom 1 1 43.246.106.29  bath_tub, 0 anonymous cpts_not_modified 0 1
+10-May-2017 23:09:00 43.246.106.29 *start_polygon
+10-May-2017 23:09:27 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:09:37 bathroom 40513d9a054184f4_6315-w500-h666-b0-p0-craftsman-bathroom 1 2 43.246.106.29  bath_tub, 1 anonymous cpts_not_modified 1 1
+10-May-2017 23:09:39 43.246.106.29 *start_polygon
+10-May-2017 23:10:23 43.246.106.29 *Opened_Edit_Popup
+10-May-2017 23:10:27 172.58.144.229 *Browser_Information Mozilla/5.0 (Linux; Android 7.0; SM-G930T Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36
+10-May-2017 23:10:27 172.58.144.229 *start_loading
+10-May-2017 23:10:49 43.246.106.29 *Deleting_object
+10-May-2017 23:10:49 bathroom 40513d9a054184f4_6315-w500-h666-b0-p0-craftsman-bathroom 2 2 43.246.106.29  bath_tub, 0 anonymous cpts_not_modified 1 2
+10-May-2017 23:10:49 43.246.106.29 *Closed_Edit_Popup
+10-May-2017 23:10:58 43.246.106.29 *start_polygon
+10-May-2017 23:10:58 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:12:45 43.246.106.29 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:12:45 43.246.106.29 *start_loading
+10-May-2017 23:13:59 43.246.106.29 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:13:59 43.246.106.29 *start_loading
+10-May-2017 23:14:06 43.246.106.29 *done_loading_Images/bathroom/d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 23:14:26 43.246.106.29 *start_polygon
+10-May-2017 23:14:59 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:15:15 bathroom d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom 0 1 43.246.106.29  bath_tub, 1 anonymous cpts_not_modified 0 0
+10-May-2017 23:15:18 123.236.81.198 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 23:15:18 123.236.81.198 *start_loading
+10-May-2017 23:15:23 43.246.106.29 *start_polygon
+10-May-2017 23:16:30 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:16:46 bathroom d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom 1 2 43.246.106.29  floor,mosaic 2 anonymous cpts_not_modified 0 0
+10-May-2017 23:16:58 43.246.106.29 *start_polygon
+10-May-2017 23:17:17 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:17:27 bathroom d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom 2 3 43.246.106.29  countertop,stone 3 anonymous cpts_not_modified 0 0
+10-May-2017 23:17:32 43.246.106.29 *start_polygon
+10-May-2017 23:18:09 43.246.106.29 *start_polygon
+10-May-2017 23:18:19 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:18:22 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:18:22 70.126.244.90 *start_loading
+10-May-2017 23:18:26 186.14.108.248 *Browser_Information Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 23:18:26 186.14.108.248 *start_loading
+10-May-2017 23:18:36 bathroom d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom 3 4 43.246.106.29  door,open 4 anonymous cpts_not_modified 0 0
+10-May-2017 23:18:50 43.246.106.29 *start_polygon
+10-May-2017 23:18:55 75.128.10.101 *start_loading
+10-May-2017 23:18:55 75.128.10.101 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 23:19:08 43.246.106.29 *What_is_this_object_query
+10-May-2017 23:19:29 bathroom d2a1973d08430e2d_3827-w500-h400-b0-p0-contemporary-bathroom 4 5 43.246.106.29  lighting,wall_lighting 5 anonymous cpts_not_modified 0 0
+10-May-2017 23:19:58 123.236.81.198 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 23:19:58 123.236.81.198 *start_loading
+10-May-2017 23:20:06 123.236.81.198 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 23:20:06 123.236.81.198 *start_loading
+10-May-2017 23:20:13 123.236.81.198 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 23:20:13 123.236.81.198 *start_loading
+10-May-2017 23:20:34 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:20:40 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:20:40 70.126.244.90 *start_loading
+10-May-2017 23:20:40 70.126.244.90 *done_loading_Images/bathroom/d741a31f06cf27a7_9264-w500-h400-b0-p0-farmhouse-bathroom.jpg
+10-May-2017 23:20:55 70.126.244.90 *start_polygon
+10-May-2017 23:21:07 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:21:26 24.76.37.152 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+10-May-2017 23:21:26 24.76.37.152 *start_loading
+10-May-2017 23:21:46 70.126.244.90 *start_polygon
+10-May-2017 23:21:54 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:22:02 bathroom d741a31f06cf27a7_9264-w500-h400-b0-p0-farmhouse-bathroom 0 1 70.126.244.90  window,medium 1 anonymous cpts_not_modified 0 0
+10-May-2017 23:22:18 70.126.244.90 *start_polygon
+10-May-2017 23:22:31 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:22:46 bathroom d741a31f06cf27a7_9264-w500-h400-b0-p0-farmhouse-bathroom 1 2 70.126.244.90  vanity,medium 2 anonymous cpts_not_modified 0 0
+10-May-2017 23:23:00 70.126.244.90 *start_polygon
+10-May-2017 23:23:05 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:23:48 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:23:52 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:23:57 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:23:57 70.126.244.90 *start_loading
+10-May-2017 23:23:58 70.126.244.90 *done_loading_Images/bathroom/8241a2070060ffb8_4822-w550-h687-b0-p0-contemporary-bathroom.jpg
+10-May-2017 23:24:05 70.126.244.90 *start_polygon
+10-May-2017 23:24:21 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:24:25 70.126.244.90 *start_polygon
+10-May-2017 23:24:41 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:25:03 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:25:08 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:25:10 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:25:10 70.126.244.90 *start_loading
+10-May-2017 23:25:10 70.126.244.90 *done_loading_Images/bathroom/03e199b407ddf231_3411-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 23:25:13 74.83.84.53 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 23:25:13 74.83.84.53 *start_loading
+10-May-2017 23:25:24 70.126.244.90 *start_polygon
+10-May-2017 23:25:31 70.126.244.90 *What_is_this_object_query
+10-May-2017 23:25:47 70.126.244.90 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.4.8 (KHTML, like Gecko) Version/10.0.3 Safari/602.4.8
+10-May-2017 23:27:08 12.247.63.14 *start_loading
+10-May-2017 23:27:08 12.247.63.14 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7
