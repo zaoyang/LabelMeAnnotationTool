@@ -8,13 +8,6 @@ traditional image annotation tools is that you can access the tool
 from anywhere and people can help you to annotate your images without
 having to install or copy a large dataset onto their computers.
 
-### CITATION:
-
-   B. C. Russell, A. Torralba, K. P. Murphy, W. T. Freeman.
-   LabelMe: a Database and Web-based Tool for Image Annotation.
-   International Journal of Computer Vision, 77(1-3):157-173, 2008. 
-   [Project page](http://labelme.csail.mit.edu)
-
 
 
 ### Mechanical Turk Start Instructions:
@@ -68,7 +61,12 @@ having to install or copy a large dataset onto their computers.
 ```
    https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
 ```    
-  
+11. You need to make sure your images don't have "--" aws command line won't accept it 
+
+12. Get AWS command line tools and create a sample project and then submit it by running: 
+```
+sudo -E ./run.sh
+```
 
 
 ### WEB SERVER REQUIREMENTS:
@@ -210,6 +208,13 @@ from the source code comments.
 * annotationTools - Directory with source code.
 * annotationCache - Location of temporary files.
 * Icons - Icons used on web page.
+
+### CITATION:
+
+   B. C. Russell, A. Torralba, K. P. Murphy, W. T. Freeman.
+   LabelMe: a Database and Web-based Tool for Image Annotation.
+   International Journal of Computer Vision, 77(1-3):157-173, 2008. 
+   [Project page](http://labelme.csail.mit.edu)
 
 
 
