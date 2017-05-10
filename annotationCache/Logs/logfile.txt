@@ -3915,3 +3915,74 @@
 10-May-2017 19:17:59 116.75.203.48 *start_loading
 10-May-2017 19:19:10 24.176.137.22 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
 10-May-2017 19:19:10 24.176.137.22 *start_loading
+10-May-2017 19:21:08 72.198.75.144 *start_loading
+10-May-2017 19:21:08 72.198.75.144 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:22:09 107.13.196.146 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:22:09 107.13.196.146 *start_loading
+10-May-2017 19:22:11 173.13.40.74 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:22:11 173.13.40.74 *start_loading
+10-May-2017 19:23:13 205.242.10.254 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:23:13 205.242.10.254 *start_loading
+10-May-2017 19:24:32 95.92.16.214 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:24:32 95.92.16.214 *start_loading
+10-May-2017 19:26:35 206.41.153.196 *Browser_Information Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:26:35 206.41.153.196 *start_loading
+10-May-2017 19:26:48 98.246.65.54 *Browser_Information Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:26:48 98.246.65.54 *start_loading
+10-May-2017 19:28:31 67.165.187.22 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:28:31 67.165.187.22 *start_loading
+10-May-2017 19:28:40 67.165.187.22 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:28:40 67.165.187.22 *start_loading
+10-May-2017 19:28:41 67.165.187.22 *done_loading_Images/bathroom/c7f15a4507b3bbe9_6938-w500-h400-b0-p0-contemporary-bathroom.jpg
+10-May-2017 19:28:48 67.165.187.22 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+10-May-2017 19:28:48 67.165.187.22 *start_loading
+10-May-2017 19:29:04 108.46.212.222 *Browser_Information Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 19:29:04 108.46.212.222 *start_loading
+10-May-2017 19:29:10 95.76.19.23 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36 OPR/43.0.2442.806
+10-May-2017 19:29:10 95.76.19.23 *start_loading
+10-May-2017 19:29:25 73.188.184.73 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:29:25 73.188.184.73 *start_loading
+10-May-2017 19:33:23 40.142.211.0 *Browser_Information Mozilla/5.0 (Windows NT 5.1; rv:52.0) Gecko/20100101 Firefox/52.0
+10-May-2017 19:33:23 40.142.211.0 *start_loading
+10-May-2017 19:34:17 223.230.126.122 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:34:17 223.230.126.122 *start_loading
+10-May-2017 19:34:54 59.97.52.25 *Browser_Information Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:34:54 59.97.52.25 *start_loading
+10-May-2017 19:35:15 223.230.126.122 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:35:15 223.230.126.122 *start_loading
+10-May-2017 19:36:12 207.179.254.66 *start_loading
+10-May-2017 19:36:12 207.179.254.66 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:36:19 207.179.254.66 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:36:19 207.179.254.66 *start_loading
+10-May-2017 19:36:19 207.179.254.66 *done_loading_Images/bathroom/7cc11e050f3abdb0_3290-w500-h666-b0-p0-traditional-bathroom.jpg
+10-May-2017 19:36:25 207.179.254.66 *start_polygon
+10-May-2017 19:36:30 207.179.254.66 *What_is_this_object_query
+10-May-2017 19:36:37 bathroom 7cc11e050f3abdb0_3290-w500-h666-b0-p0-traditional-bathroom 0 1 207.179.254.66  window,large 1 anonymous cpts_not_modified 0 0
+10-May-2017 19:36:39 207.179.254.66 *start_polygon
+10-May-2017 19:36:46 207.179.254.66 *What_is_this_object_query
+10-May-2017 19:36:52 bathroom 7cc11e050f3abdb0_3290-w500-h666-b0-p0-traditional-bathroom 1 2 207.179.254.66  bath_tub, 2 anonymous cpts_not_modified 0 0
+10-May-2017 19:36:55 223.186.204.133 *Browser_Information Mozilla/5.0 (Linux; U; Android 4.2 jellybean # ariel-tbc /UCHIHA; en-US; GT-S6102 Build/GINGERBREAD) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1 UCBrowser/10.1.2.571 Mobile
+10-May-2017 19:36:55 223.186.204.133 *start_loading
+10-May-2017 19:38:23 66.130.39.60 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:38:23 66.130.39.60 *start_loading
+10-May-2017 19:38:43 24.24.143.111 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+10-May-2017 19:38:43 24.24.143.111 *start_loading
+10-May-2017 19:39:11 24.24.143.111 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+10-May-2017 19:39:11 24.24.143.111 *start_loading
+10-May-2017 19:39:12 24.24.143.111 *done_loading_Images/bathroom/32015a75051b2285_1976-w500-h400-b0-p0-traditional-bathroom.jpg
+10-May-2017 19:39:48 24.24.143.111 *start_polygon
+10-May-2017 19:39:49 104.229.134.37 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:39:49 104.229.134.37 *start_loading
+10-May-2017 19:39:56 24.24.143.111 *start_polygon
+10-May-2017 19:40:05 24.24.143.111 *What_is_this_object_query
+10-May-2017 19:40:17 170.213.2.196 *start_loading
+10-May-2017 19:40:17 170.213.2.196 *Browser_Information Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+10-May-2017 19:40:19 bathroom 32015a75051b2285_1976-w500-h400-b0-p0-traditional-bathroom 1 2 24.24.143.111  countertop,stone 1 anonymous cpts_not_modified 0 0
+10-May-2017 19:40:25 24.24.143.111 *start_polygon
+10-May-2017 19:40:30 184.206.22.215 *start_loading
+10-May-2017 19:40:30 184.206.22.215 *Browser_Information Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0
+10-May-2017 19:40:35 104.229.134.37 *start_loading
+10-May-2017 19:40:35 104.229.134.37 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:40:36 104.229.134.37 *Browser_Information Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.96 Safari/537.36
+10-May-2017 19:40:36 104.229.134.37 *start_loading
+10-May-2017 19:40:37 104.229.134.37 *done_loading_Images/bathroom/674170c20837461d_9933-w500-h666-b0-p0-transitional-bathroom.jpg
