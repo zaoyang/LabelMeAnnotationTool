@@ -51,7 +51,7 @@ var drawing_mode = 0;
 var scribble_mode = true;
 var threed_mode = false;
 var video_mode = false;
-var bounding_box = false;
+var bounding_box = true;
 var bbox_mode = true;
 var autocomplete_mode = false;
 

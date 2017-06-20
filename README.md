@@ -42,6 +42,8 @@ having to install or copy a large dataset onto their computers.
 
 7. Change mode=mt for Mechanical Turk 
 
+   http://www.yourserver.edu/path/to/LabelMe/tool.html?collection=LabelMe&mode=mt&folder=example_folder&image=img1.jpg
+
 8. Change N=2 for mode. 
 
 9. 
