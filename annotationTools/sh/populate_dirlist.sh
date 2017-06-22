@@ -60,8 +60,11 @@ find $ImageDir | while read i; do
 
         folder="$dname"
 
-		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2";
-		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2" >> $HOMEDIRLIST/$dirlist;
+#		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2";
+#		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2" >> $HOMEDIRLIST/$dirlist;
+		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&N=2";
+		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&N=2" >> $HOMEDIRLIST/$dirlist;
+
     fi
 done
 
