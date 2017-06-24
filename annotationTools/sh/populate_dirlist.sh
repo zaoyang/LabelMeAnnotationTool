@@ -49,7 +49,11 @@ else
    VideoDir="$HOMEVIDEOS/$folder";
 fi
 
-https://tagobject.com/LabelMeAnnotationTool/annotationTools/html/mt_instructions.html
+#https://tagobject.com/LabelMeAnnotationTool/annotationTools/html/mt_instructions.html
+
+
+a=0;
+b=2;
 
 # Populate dirlist:
 find $ImageDir | while read i; do
@@ -64,6 +68,11 @@ find $ImageDir | while read i; do
 #		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&mt_sandbox=true&N=2" >> $HOMEDIRLIST/$dirlist;
 		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&N=2";
 		echo "https://$baseurl/LabelMeAnnotationTool/tool.html?collection=$folder&mode=mt&folder=$folder&image=$iname&N=2" >> $HOMEDIRLIST/$dirlist;
+
+        a=$(($a+1));
+        if [ "$a" -gt "$b" ]; then
+            break;
+        fi
 
     fi
 done
