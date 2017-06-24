@@ -73,7 +73,7 @@ function DrawCanvasMouseMove(event){
   draw_anno.DeletePolygon();
   var xb = GetEventPosX(event);
   var yb = GetEventPosY(event);
-  console.log(xb,yb);
+
   var scale = main_media.GetImRatio();
   var xarr = [draw_x[0], Math.round(xb/scale), Math.round(xb/scale), draw_x[0], draw_x[0]];
   var yarr = [draw_y[0],draw_y[0], Math.round(yb/scale), Math.round(yb/scale), draw_y[0]];

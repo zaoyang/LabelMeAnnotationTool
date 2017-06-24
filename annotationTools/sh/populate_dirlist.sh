@@ -53,7 +53,7 @@ fi
 
 
 a=0;
-b=2;
+b=10;
 
 # Populate dirlist:
 find $ImageDir | while read i; do

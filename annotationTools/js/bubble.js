@@ -380,7 +380,7 @@ function postCreatePopupBubble(){
       });
 
       html_str += "</select></div>";
-      console.log(html_str);
+      //console.log(html_str);
 
       if ($("#objEnterDiv2").length == 0 ){
         $("#objEnterDiv").append(html_str);
