@@ -1,1 +1,50 @@
-<annotation><filename>0d513f78052ab685_9923-w500-h666-b0-p0-traditional-bathroom.jpg</filename><folder>bathroom</folder><source><sourceImage>The MIT-CSAIL database of objects and scenes</sourceImage><sourceAnnotation>LabelMe Webtool</sourceAnnotation></source><object><name>window,small</name><deleted>0</deleted><verified>0</verified><parts><hasparts></hasparts><ispartof></ispartof></parts><date>25-Jun-2017 01:01:04</date><id>0</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>367</x><y>50</y></pt></polygon></object><object><name>sink,</name><deleted>0</deleted><verified>0</verified><parts><hasparts></hasparts><ispartof></ispartof></parts><date>25-Jun-2017 01:01:44</date><id>1</id><type>bounding_box</type><polygon><username>anonymous</username><pt><x>379</x><y>244</y></pt></polygon></object><imagesize><nrows></nrows><ncols></ncols></imagesize></annotation>
+<annotation>
+    <filename>0d513f78052ab685_9923-w500-h666-b0-p0-traditional-bathroom.jpg</filename>
+    <folder>bathroom</folder>
+    <source>
+        <sourceImage>The MIT-CSAIL database of objects and scenes</sourceImage>
+        <sourceAnnotation>LabelMe Webtool</sourceAnnotation>
+    </source>
+    <object>
+        <name>window,small</name>
+        <deleted>0</deleted>
+        <verified>0</verified>
+        <parts>
+            <hasparts></hasparts>
+            <ispartof></ispartof>
+        </parts>
+        <date>25-Jun-2017 01:01:04</date>
+        <id>0</id>
+        <type>bounding_box</type>
+        <polygon>
+            <username>anonymous</username>
+            <pt>
+                <x>367</x>
+                <y>50</y>
+            </pt>
+        </polygon>
+    </object>
+    <object>
+        <name>sink,</name>
+        <deleted>0</deleted>
+        <verified>0</verified>
+        <parts>
+            <hasparts></hasparts>
+            <ispartof></ispartof>
+        </parts>
+        <date>25-Jun-2017 01:01:44</date>
+        <id>1</id>
+        <type>bounding_box</type>
+        <polygon>
+            <username>anonymous</username>
+            <pt>
+                <x>379</x>
+                <y>244</y>
+            </pt>
+        </polygon>
+    </object>
+    <imagesize>
+        <nrows></nrows>
+        <ncols></ncols>
+    </imagesize>
+</annotation>
