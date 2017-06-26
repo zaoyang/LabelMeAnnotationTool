@@ -2,6 +2,7 @@
 # Sets up directory structure.
 
 
+
 # Get LabelMe path settings:
 LM_TOOL_HOME = $(shell pwd)/
 
